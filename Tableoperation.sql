@@ -1,0 +1,8 @@
+SELECT TOP (1000) [Id]
+      ,[name]
+      ,[mobilenumber]
+      ,[email]
+      ,[dob]
+      ,[license]
+      ,[passport]
+  FROM [MarchDB].[dbo].[Employee]
